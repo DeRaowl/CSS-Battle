@@ -34,3 +34,7 @@
     background-color: #62306D;
 
   ```
+  
+  ## Output
+  
+  ![image](https://user-images.githubusercontent.com/26904087/120144803-3a5e9e00-c200-11eb-824d-0441711d8ab7.png)
