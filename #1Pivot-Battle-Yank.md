@@ -15,4 +15,7 @@
   ```
   
   
- ![image](https://user-images.githubusercontent.com/26904087/120143208-4bf27680-c1fd-11eb-8dea-9a77562eeb70.png)
+## Output
+
+![image](https://user-images.githubusercontent.com/26904087/120143258-688eae80-c1fd-11eb-9d6e-f92433547db8.png)
+
