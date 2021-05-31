@@ -80,3 +80,7 @@
   
 </style>
   ```
+  
+  ## Output
+  
+  ![image](https://user-images.githubusercontent.com/26904087/120145139-af31d800-c200-11eb-88e6-985837fbe79f.png)
