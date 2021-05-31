@@ -13,3 +13,7 @@
   body{background-color: #0B2429;
 
   ```
+  
+  ## Output
+  
+  ![image](https://user-images.githubusercontent.com/26904087/120144908-5feba780-c200-11eb-9bd0-95a5a77bee38.png)

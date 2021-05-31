@@ -46,3 +46,6 @@
   }
   </style>
   ```
+  ## Output
+  
+  ![image](https://user-images.githubusercontent.com/26904087/120144720-1438fe00-c200-11eb-8621-fdbf2f565161.png)

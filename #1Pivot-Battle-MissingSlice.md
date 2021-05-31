@@ -33,3 +33,7 @@
   }
   body{background-color: #E3516E}
   ```
+  
+  ## Output
+  
+  ![image](https://user-images.githubusercontent.com/26904087/120144987-78f45880-c200-11eb-964d-9834d0faf85c.png)
