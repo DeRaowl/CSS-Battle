@@ -33,3 +33,7 @@
   body{
     background-color: #0B2429
   ```
+  
+  ## Output
+  
+  ![image](https://user-images.githubusercontent.com/26904087/120145067-94f7fa00-c200-11eb-81fb-91d43814b412.png)
