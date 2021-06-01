@@ -32,5 +32,5 @@
   
 ## Output
 
-![image](https://user-images.githubusercontent.com/26904087/120143258-688eae80-c1fd-11eb-9d6e-f92433547db8.png)
+![image](https://user-images.githubusercontent.com/26904087/120362898-34181100-c329-11eb-8973-6ffe0ae59177.png)
 
