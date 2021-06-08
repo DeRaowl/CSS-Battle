@@ -41,5 +41,5 @@
   
 ## Output
 
-![image](https://user-images.githubusercontent.com/26904087/120143258-688eae80-c1fd-11eb-9d6e-f92433547db8.png)
+![image](https://user-images.githubusercontent.com/26904087/121185851-1c3e1100-c884-11eb-975c-c61962d02238.png)
 
