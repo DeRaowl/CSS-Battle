@@ -19,5 +19,4 @@
   
 ## Output
 
-![image](https://user-images.githubusercontent.com/26904087/120143258-688eae80-c1fd-11eb-9d6e-f92433547db8.png)
-
+![image](https://user-images.githubusercontent.com/26904087/120362645-e8fdfe00-c328-11eb-858f-63f56419886a.png)
